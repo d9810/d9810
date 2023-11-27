@@ -20,7 +20,7 @@
 #### 👋 SNS Link
 
 <p align="center">
-  <a href="https://www.instagram.com/dev.dobby/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w._.h22/"/></a>&nbsp
+  <a href="https://www.instagram.com/w._.h22/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/w._.h22/"/></a>&nbsp
   <a href="mailto:g204830060@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=g20483060@gmail.com"/></a>
 </p>
 
